@@ -9,6 +9,15 @@ Welcome to my GitHub profile! I'm passionate about creating dynamic and efficien
 
 <br/>
 <!--START_SECTION:waka-->
+
+```txt
+C#            5 hrs 2 mins    █████████████████░░░░░░░░   67.74 %
+Binary        1 hr 47 mins    ██████░░░░░░░░░░░░░░░░░░░   23.95 %
+JSON          22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+CSHTML        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Image (svg)   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+```
+
 <!--END_SECTION:waka-->
 <br />
 
