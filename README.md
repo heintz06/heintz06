@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm passionate about creating dynamic and efficien
 </p>
 
 <br/>
-<!--START_SECTION:waka--><!--END_SECTION:waka-->****
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <br />
 
 ## 🧰 Languages and Tools:
