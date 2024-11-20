@@ -8,8 +8,9 @@ Welcome to my GitHub profile! I'm passionate about creating dynamic and efficien
 </p>
 
 <br/>
-[![wakatime](https://wakatime.com/badge/user/7abe5e07-a496-4b9a-b50c-240ea0a375e3/project/018c8aba-cda0-4a5a-8b0e-bbfa30c5abba.svg)](https://wakatime.com/badge/user/7abe5e07-a496-4b9a-b50c-240ea0a375e3/project/018c8aba-cda0-4a5a-8b0e-bbfa30c5abba)
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->****
 <br />
 
 ## 🧰 Languages and Tools:
