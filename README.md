@@ -10,12 +10,17 @@ Welcome to my GitHub profile! I'm passionate about creating dynamic and efficien
 <br/>
 <!--START_SECTION:waka-->
 
-```txt
-C#            5 hrs 2 mins    █████████████████░░░░░░░░   67.74 %
-Binary        1 hr 47 mins    ██████░░░░░░░░░░░░░░░░░░░   23.95 %
-JSON          22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-CSHTML        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Image (svg)   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+```rust
+From: 04 August 2021 - To: 20 November 2024
+
+Total Time: 1,058 hrs 21 mins
+
+C#                     462 hrs 1 min   >>>>>>>>>>>--------------   42.72 %
+Binary                 192 hrs 5 mins  >>>>---------------------   17.76 %
+CSHTML                 123 hrs 52 mins >>>----------------------   11.45 %
+PHP                    75 hrs 32 mins  >>-----------------------   06.98 %
+XML                    25 hrs 20 mins  >------------------------   02.34 %
+Other                  23 hrs 16 mins  >------------------------   02.15 %
 ```
 
 <!--END_SECTION:waka-->
