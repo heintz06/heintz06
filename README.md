@@ -11,12 +11,12 @@ Welcome to my GitHub profile! I'm passionate about creating dynamic and efficien
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 August 2021 - To: 27 May 2025
+From: 04 August 2021 - To: 28 May 2025
 
-Total Time: 1,187 hrs 56 mins
+Total Time: 1,188 hrs 26 mins
 
-C#                         511 hrs 17 mins >>>>>>>>>>>--------------   42.15 %
-Binary                     219 hrs 18 mins >>>>>--------------------   18.08 %
+C#                         511 hrs 43 mins >>>>>>>>>>>--------------   42.17 %
+Binary                     219 hrs 22 mins >>>>>--------------------   18.08 %
 CSHTML                     132 hrs 5 mins  >>>----------------------   10.89 %
 PHP                        75 hrs 32 mins  >>-----------------------   06.23 %
 Razor                      41 hrs 45 mins  >------------------------   03.44 %
