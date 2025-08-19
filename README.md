@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about creating dynamic and efficien
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 August 2021 - To: 17 August 2025
+From: 04 August 2021 - To: 18 August 2025
 
 Total Time: 1,309 hrs 18 mins
 
